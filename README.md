@@ -1,0 +1,1 @@
+This is the repository which was originally created locally with name Local_Repo in my laptop and was pushed later into GitHub Repo with name Second_Work
